@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="lifehacks">#ddffb3</color>
+    <color name="lifehacksBtn">#5aa300</color>
+    <color name="games">#b83e3e</color>
+    <color name="gamesBtn">#e00000</color>
+    <color name="tech">#222633</color>
+    <color name="techBtn">#0e0f0f</color>
+    <color name="memes">#ffc5a6</color>
+    <color name="memesBtn">#b33e00</color>
+</resources>

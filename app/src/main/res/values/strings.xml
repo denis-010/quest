@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="start">start</string>
+    <string name = "startOfStory">Вам становиться скуно и вы создаете канал на ютюбе тематикой которого стали: </string>
+    <string name="startChoice1">игры</string>
+    <string name="startChoices2"> <font fgcolor="WHITE">Технологии</font></string>
+    <string name="startChoice3">мемы</string>
+    <string name= "startChoice4">лайфхаки</string>
+    <string name="begining">Итак, у вас есть более не менее нормальная камера и программа для монтажа,и вы снимаете свое первое видео о</string>
+    <string name="begining2">Вы скачиваетете пиратскую версию программы для захвата экрана, и снимаете свое первое видео о</string>
+    <string name="OneDot1">своей старой консоли</string>
+    <string name="OneDot2">том, почему процессоры intel хуже AMD</string>
+    <string name ="oneDot3">5 причин почему консоль лучше пк</string>
+    <string name="twoDot1"></string>
+    <string name="twoDot2"></string>
+</resources>
